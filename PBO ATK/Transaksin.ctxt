@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Transaksin
+comment1.params=poli\ dokter\ keterangan\ biayaPendaftaran\ biayaObat\ biayaVitamin\ biayaDokter
+comment1.target=Transaksin(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+numComments=2

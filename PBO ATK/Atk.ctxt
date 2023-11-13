@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Atk
+comment1.params=kodeBarang\ namaBarang\ hargaBarang
+comment1.target=Atk(java.lang.String,\ java.lang.String,\ double)
+comment2.params=jumlah
+comment2.target=double\ hitungTotal(double)
+numComments=3
